@@ -1,0 +1,67 @@
+3249 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 4
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 24
+	}
+	
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 2
+	}
+	
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 2
+	}
+	
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 20
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4
+	}
+	
+	labourers = {
+		culture = portuguese
+		religion = catholic
+		size = 145
+	}
+	
+	labourers = {
+		culture = spanish
+		religion = catholic
+		size = 82
+	}
+	
+	labourers = {
+		culture = maghrebi
+		religion = sunni
+		size = 25
+	}
+	
+	labourers = {
+		culture = greek
+		religion = orthodox
+		size = 18
+	}
+}
